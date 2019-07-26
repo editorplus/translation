@@ -1,0 +1,22 @@
+{
+  "name": "editorplus-translation",
+  "description": "",
+  "version": "2.0.0",
+  "files": [
+    "en-US",
+    "zh-CN"
+  ],
+  "homepage": "https://github.com/charescape/editorplus-translation",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charescape/editorplus-translation.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/charescape/editorplus-translation/issues"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
